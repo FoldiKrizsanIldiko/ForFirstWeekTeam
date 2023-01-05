@@ -186,8 +186,6 @@ Add the favorite books list from the solo project solutions to a favBooks key.*/
         }
     ]
 };
-<<<<<<< HEAD
-
 console.log(ourTeam.members[0].favorites.favMovies[0].directors);
 
 /*In the members array of the ourTeam variable, update the favorites key (object) with a new key (favSongs).
@@ -200,7 +198,6 @@ Also, remove the following keys and their values: the description keys of the mo
 
 //Calculate the average age (in an averageAge variable) and average coding level (into an averageCodingLevel).
 
-=======
 /*In the members array of the ourTeam variable, update the favorites key (object) with a new key (favSongs).
 Add an array of the top three songs.
 The object of the favSongs array must contain the following keys: title (string), artist (string), and genres (array of strings).*/
@@ -211,7 +208,6 @@ Also, remove the following keys and their values: the description keys of the mo
 
 //Calculate the average age (in an averageAge variable) and average coding level (into an averageCodingLevel).
 
->>>>>>> d7cb83d5debf2cfe48e3f0385f8a9ff58c938e60
 //Find the youngest member (calculate it as a value of a youngestMember variable). Important: you only have to compare the values of the year keys
 //Find the oldest member (calculate it as a value of an oldestMember variable). Important: you only have to compare the values of the year keys 
 //Find out if some people are from the same location.
