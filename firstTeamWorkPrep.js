@@ -382,4 +382,4 @@ console.log("The oldest mmember of our team is ", oldestMember.name, ", he/she w
 //Common music styles
 //Choose theme for each Member color
 //Add an image
-
+// node firstTeamWorkPrep.js
